@@ -2,8 +2,9 @@
 
 An interactive **Power BI Dashboard** that analyzes and visualizes Heart disease patient data, providing insights into survival rates, age-related trends, and critical health risk factors. 
 ## 📸 Dashboard Preview
+  
+<img src="images/heart disease_bi.png" alt="Heart Disease Dashboard" width="1000"/>
 
-<img width="1337" height="745" alt="Snapshot_Heart_Disease" src="https://github.com/user-attachments/assets/2adaca66-c918-4a19-abf5-f92b430d57a7" />
 
 
 ## 📌 Overview
